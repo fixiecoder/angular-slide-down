@@ -1,2 +1,10 @@
-# angular-slide-down
-demo slidedown for ng-animate
+# Slide down with ng-animate
+---
+###Repo:
+angular-slide-down
+
+### Descritption:
+
+Small angular app that implements a slidedown effect initiated by a checkbox state.
+
+
